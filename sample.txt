@@ -1,1 +1,2 @@
 now im learning devops
+learning git day by day to improve my knowledge in devops
